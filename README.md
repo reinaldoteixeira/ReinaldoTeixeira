@@ -1,20 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Reinaldo Teixeira 👋
 
-<!--
-**ReinaldoTeixeira/ReinaldoTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a PHP developer, focus on backend, frontend and mobile enthusiastic.
 
-<a target="_blank" href="https://www.linkedin.com/in/reinaldo-teixeira-a06658129/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 🔭 I’m currently working with PHP
+- 🌱 I’m currently learning React and React Native
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="reinaldoteixeira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="reinaldoteixeira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Things I like:
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<br />
+<br />
+
+<img align="left" alt="ReinaldoTeixeira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoTeixeira&show_icons=true&hide_border=true" />
+
+[instagram]: https://www.instagram.com/reinaldotjr_
+[linkedin]: https://www.linkedin.com/in/reinaldo-teixeira-a06658129
