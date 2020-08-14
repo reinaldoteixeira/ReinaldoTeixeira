@@ -3,6 +3,10 @@
 <!--
 **ReinaldoTeixeira/ReinaldoTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a target="_blank" href="https://www.linkedin.com/in/reinaldo-teixeira-a06658129/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
