@@ -24,7 +24,5 @@
 <br />
 <br />
 
-<img align="left" alt="ReinaldoTeixeira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoTeixeira&show_icons=true&hide_border=true" />
-
 [instagram]: https://www.instagram.com/reinaldotjr_
 [linkedin]: https://www.linkedin.com/in/reinaldo-teixeira-a06658129
