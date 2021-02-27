@@ -3,7 +3,7 @@
 ## I'm a PHP developer, focus on backend, frontend and mobile enthusiastic.
 
 - 🔭 I’m currently working with PHP
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning Node, React and React Native
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
