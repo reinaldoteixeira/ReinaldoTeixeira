@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with PHP
 - 🌱 I’m currently learning Node, React and React Native
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
